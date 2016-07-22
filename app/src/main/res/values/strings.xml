@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadWriteInternalData</string>
+    <string name="btnSave">保存</string>
+    <string name="btnRead">读取</string>
+</resources>
